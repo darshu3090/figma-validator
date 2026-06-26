@@ -1,0 +1,15 @@
+{
+  "name": "figma-validator",
+  "version": "1.0.0",
+  "description": "Figma design validator API",
+  "main": "figma-validator-api.js",
+  "scripts": {
+    "start": "node figma-validator-api.js"
+  },
+  "keywords": ["figma", "validator"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "https": "^1.0.0"
+  }
+}
